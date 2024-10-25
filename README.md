@@ -1,5 +1,3 @@
-# Bioinformatics-Pipeline-Simulator
-
 
 # Bioinformatics Pipeline Simulator
 
