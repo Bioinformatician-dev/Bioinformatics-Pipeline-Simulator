@@ -15,6 +15,7 @@ Install Streamlit and any necessary libraries:
 
 ```bash
 pip install streamlit pandas numpy matplotlib seaborn
+pip install -r requirements.txt
 ```
     
 ## Basic File Structure  
