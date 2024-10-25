@@ -64,4 +64,4 @@ Include a section explaining each step of the pipeline and its significance.
 Implement options to save session data, so users can revisit their analyses.
 ## Deployment 
 
-To deploy your app, consider using Streamlit Sharing or platforms like Heroku or AWS.
+To deploy the app, consider using Streamlit Sharing or platforms like Heroku or AWS.
